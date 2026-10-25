@@ -1,0 +1,14 @@
+{
+  "SOFR-1B-IFR": {
+    "type": "INSTANTANEOUS FORWARD RATE",
+    "index": "SOFR-1B",
+    "business_day_convention": "F",
+    "holiday_convention": "USGS"
+  },
+  "SOFR-1B-FUNDING-IFR": {
+    "type": "INSTANTANEOUS FORWARD RATE",
+    "index": "SOFR-1B",
+    "business_day_convention": "F",
+    "holiday_convention": "USGS"
+  }
+}
